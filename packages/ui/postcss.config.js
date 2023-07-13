@@ -1,0 +1,1 @@
+module.exports = require("@photowall/configs/tailwind/postcss.config");
